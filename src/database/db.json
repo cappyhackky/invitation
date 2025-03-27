@@ -1,0 +1,74 @@
+{
+  "application": {
+    "name": "The wedding of Mantsha & Firoz",
+    "description": "The wedding of Mantsha & Firoz. Sunday, April 13, 2025",
+    "version": "1.0.0"
+  },
+  "wedding": {
+    "nikaah": {
+      "date": "Sunday, April 13, 2025",
+      "time_1": "07:00 PM - Reception of Baarat",
+      "time_2": "08:00 PM - Nikaah",
+      "time_3": "09:00 PM - Dinner",
+      "time_4": "10:00 PM - Rukhsati",
+      "location": "The Royal Green Banquet & Lawn",
+      "address": "Telipura Road, Near Chilikiya Post Office, Ramnagar (Nainital) U.K.",
+      "gmaps": {
+        "link": "https://goo.gl/maps/XDKSZdJM6T4prdhu8?g_st=aw",
+        "iframeSrc": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2775.315780161366!2d79.1038800755281!3d29.368305975271014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjnCsDIyJzA1LjkiTiA3OcKwMDYnMjMuMiJF!5e1!3m2!1sen!2sin!4v1743020059886!5m2!1sen!2sin"
+      }
+    },
+    "reception": {
+      "date": "Sunday, April 13, 2025",
+      "time": "09.00 WIB - Until Finished",
+      "location": "Bride's residence",
+      "address": "Jl. H. Nurleman RT. 002 RW. 003, Kel. Benda Baru, Kec. Pamulang, South Tangerang",
+      "gmaps": {
+        "link": "https://maps.app.goo.gl/1kM9KC9m7d477zxD9",
+        "iframeSrc": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d991.3727501079445!2d106.71945762812459!3d-6.330370382891928!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNsKwMTknNDkuOSJTIDEwNsKwNDMnMTEuOSJF!5e0!3m2!1sid!2sid!4v1681882927364!5m2!1sid!2sid"
+      }
+    },
+    "couple": {
+      "groom": {
+        "firstName": "Firoz",
+        "lastName": "Gul",
+        "nickname": "",
+        "parents": {
+          "description": "S/o",
+          "father": "Haji Mohd. Haroon",
+          "mother": "Naseema Begum"
+        },
+        "photo": "/assets/images/couple/groom.webp",
+        "bg": "rgb(224, 194, 255)",
+        "bg_2": "rgb(229, 229, 203)"
+      },
+      "bride": {
+        "firstName": "Mantsha",
+        "lastName": "Saifi",
+        "nickname": "Manna",
+        "parents": {
+          "description": "D/o",
+          "father": "Rashid Hussain Saifi",
+          "mother": "Shaheen Saifi"
+        },
+        "photo": "/assets/images/couple/bride.webp",
+        "bg": "rgb(211, 174, 224)",
+        "bg_2": "rgb(213, 206, 163)"
+      }
+    }
+  },
+  "hero": {
+    "banner_left": "/assets/images/hero/banner_left.png",
+    "banner_right": "/assets/images/hero/banner_right.png"
+  },
+  "gallery": [
+    "/assets/images/gallery/galeri-01.webp",
+    "/assets/images/gallery/galeri-02.webp",
+    "/assets/images/gallery/galeri-03.webp",
+    "/assets/images/gallery/galeri-04.webp",
+    "/assets/images/gallery/galeri-05.webp",
+    "/assets/images/gallery/galeri-06.webp",
+    "/assets/images/gallery/galeri-07.webp",
+    "/assets/images/gallery/galeri-08.webp"
+  ]
+}
